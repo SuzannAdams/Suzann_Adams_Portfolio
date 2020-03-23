@@ -1,8 +1,9 @@
 body {
-  background-color: darkturquoise;
+  background-color: rgb(100, 166, 219);
+  /* background-color: rgb(106, 205, 244); */
 }
 h1 {
   font-style: normal;
   font-family: Verdana, Geneva, Tahoma, sans-serif;
-  color: honeydew;
+  color: rgb(240, 246, 240);
 }
