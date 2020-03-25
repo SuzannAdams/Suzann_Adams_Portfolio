@@ -2,11 +2,13 @@ body {
   background-color: rgb(114, 182, 237);
   /* background-color: rgb(106, 205, 244); */
 }
+@import url('https://fonts.googleapis.com/css?family=Niconne&display=swap');
+
 h1 {
-  font-size: xx-large;
+  font-size: 50pt;
   font-style: normal;
-  font-family: Verdana, Geneva, Tahoma, sans-serif;
-  color: rgb(240, 246, 240);
+  font-family: 'Niconne', cursive;
+  color: rgb(243, 211, 71);
   text-align: center;
 }
 h2 {
